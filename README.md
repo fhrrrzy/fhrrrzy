@@ -1,8 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @fhrrrzy<br>👀 I’m interested in bulding automation tool such as bot<br>🌱 I’m currently learning python pytelegrambotapi and Js basic<br>📫 You can reach me from telegram @waterflai
 
-<img src="https://media.tenor.com/ShqRkUv63pAAAAAd/cat-vibing-vibing-cat.gif" width="512px"/>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fahrurrozyantis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fhrrrzy___) 
