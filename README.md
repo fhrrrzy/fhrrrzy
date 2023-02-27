@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Vue and TailwindCSS**
 
-- 📫 How to reach me **fahrurrozy4214@gmail.com**
+- 📫 How to reach me ******
 
 - ⚡ Fun fact **im lactose tolerant, throw me a milk party**
 
