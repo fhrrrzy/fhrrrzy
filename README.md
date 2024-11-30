@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=latte)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte)
 
 
 # 💫 About Me:
