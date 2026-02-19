@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning React, Vue and TailwindCSS<br>📫 How to reach me ******<br>⚡ Fun fact im lactose tolerant, throw me a milk party
+🌱 I’m currently learning Reverse Engineering<br>📫 How to reach me ******<br>⚡ Fun fact im lactose tolerant, throw me a milk party
 
 
 ## 🌐 Socials:
