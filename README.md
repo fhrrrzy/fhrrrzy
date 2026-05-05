@@ -27,6 +27,11 @@ I enjoy working at the intersection of product, design, and engineering to ship 
 **Data:** PostgreSQL, MySQL  
 **Tools:** Git, GitHub, Figma, Vercel
 
+## Public Work
+
+- [**Oassyst**](https://oassyst.com/) - Product website and web experience for Oassyst.
+- [**Cradle Space**](https://cradlespace.co.id/) - Official website and digital presence for Cradle Space.
+
 ## GitHub Stats
 
 <div align="center">
