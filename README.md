@@ -27,17 +27,6 @@ I enjoy working at the intersection of product, design, and engineering to ship 
 **Data:** PostgreSQL, MySQL  
 **Tools:** Git, GitHub, Figma, Vercel
 
-## Selected Projects
-
-### [MAUT-Car-decision](https://github.com/fhrrrzy/MAUT-Car-decision)
-Decision-support web application that applies weighted criteria to compare options and assist car selection.
-
-### [desa-bantuin-app](https://github.com/fhrrrzy/desa-bantuin-app)
-Community service platform concept focused on straightforward workflows and practical user experience.
-
-### [news-app-test](https://github.com/fhrrrzy/news-app-test)
-API-driven news app experiment for testing information architecture, filtering flow, and interface clarity.
-
 ## GitHub Stats
 
 <div align="center">
