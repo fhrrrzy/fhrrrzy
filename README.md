@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fahrurrozy&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:6366f1&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlign=50&descAlignY=60" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Fahrurrozy&fontAlign=50&fontAlignY=38&color=0:0ea5e9,100:6366f1&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20Turning%20Ideas%20Into%20Useful%20Products&descAlign=50&descAlignY=60" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&center=true&vCenter=true&width=700&lines=Building+clean+interfaces+with+real+user+value;Shipping+products+that+feel+fast+and+delightful;Always+learning%2C+always+improving)](https://github.com/fhrrrzy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1100&center=true&vCenter=true&width=760&lines=Frontend+developer+who+cares+about+real+user+experience;I+build+interfaces+that+are+clean%2C+fast%2C+and+maintainable;Open+for+collaboration+on+meaningful+products)](https://github.com/fhrrrzy)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fhrrrzy)
 [![Instagram](https://img.shields.io/badge/Instagram-@fhrrrzy.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fhrrrzy.dev)
@@ -10,19 +10,20 @@
 
 </div>
 
-## Hello, I'm Fahrurrozy
+## About
 
-I build web products with a strong focus on **clarity, usability, and visual polish**.
-My sweet spot is frontend engineering, but I enjoy collaborating across product, design, and backend to ship better experiences.
+I am a frontend-focused developer who enjoys building digital products from idea to release.
+My approach is simple: **clear UX, clean code, and steady iteration**.
+I love working where design, engineering, and product thinking meet.
 
-## What I Do
+## 2026 Focus
 
-- Design and develop responsive interfaces that feel smooth and intuitive.
-- Turn rough ideas into MVPs, then iterate based on real feedback.
-- Keep codebases maintainable through clean structure and practical patterns.
-- Explore automation and system design to level up delivery speed.
+- Building production-ready interfaces with strong accessibility and responsiveness.
+- Strengthening full-stack depth to ship features end-to-end.
+- Improving architecture and code quality for long-term maintainability.
+- Collaborating on products that solve real problems for real users.
 
-## Toolbox
+## Tech Stack
 
 <div align="left">
 
@@ -41,7 +42,7 @@ My sweet spot is frontend engineering, but I enjoy collaborating across product,
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Workflow**  
+**Tools & Workflow**  
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -49,24 +50,38 @@ My sweet spot is frontend engineering, but I enjoy collaborating across product,
 
 </div>
 
-## Featured Work
+## Selected Projects
 
-- [**MAUT-Car-decision**](https://github.com/fhrrrzy/MAUT-Car-decision) - Weighted decision support app for selecting the best car option.
-- [**desa-bantuin-app**](https://github.com/fhrrrzy/desa-bantuin-app) - Community service workflow concept with product-focused UX direction.
-- [**news-app-test**](https://github.com/fhrrrzy/news-app-test) - News app experiment for API-driven UI patterns and iteration speed.
+- [**MAUT-Car-decision**](https://github.com/fhrrrzy/MAUT-Car-decision)  
+  Decision-support web app implementing weighted criteria logic to help users compare and choose car options.
 
-## GitHub Analytics
+- [**desa-bantuin-app**](https://github.com/fhrrrzy/desa-bantuin-app)  
+  Community service platform concept focused on practical workflows and user-friendly interfaces for local use cases.
+
+- [**news-app-test**](https://github.com/fhrrrzy/news-app-test)  
+  API-driven news app playground used to experiment with content presentation, filtering flow, and frontend architecture.
+
+## GitHub Snapshot
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fhrrrzy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrrrzy&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrrrzy&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fhrrrzy&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
-## Connect
+## Collaboration
+
+I am open to:
+- Frontend-focused freelance or contract projects.
+- Product collaborations and MVP builds.
+- Developer communities and knowledge-sharing opportunities.
+
+If you have an idea to build, let's connect.
+
+## Contact
 
 - LinkedIn: [linkedin.com/in/fhrrrzy](https://linkedin.com/in/fhrrrzy)
 - Instagram: [@fhrrrzy.dev](https://instagram.com/fhrrrzy.dev)
@@ -74,6 +89,6 @@ My sweet spot is frontend engineering, but I enjoy collaborating across product,
 
 <div align="center">
 
-### "Build useful things. Keep it simple. Make it delightful."
+### Build useful things. Keep it simple. Make it delightful.
 
 </div>
