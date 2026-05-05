@@ -35,8 +35,8 @@ I enjoy working at the intersection of product, design, and engineering to ship 
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fhrrrzy&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrrrzy&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=fhrrrzy&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=fhrrrzy&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </div>
 
 ## Open To
