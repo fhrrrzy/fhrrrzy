@@ -29,8 +29,8 @@ I enjoy working at the intersection of product, design, and engineering to ship 
 
 ## Public Work
 
-- [**Oassyst**](https://oassyst.com/) - Product website and web experience for Oassyst.
-- [**Cradle Space**](https://cradlespace.co.id/) - Official website and digital presence for Cradle Space.
+- [**Oassyst**](https://oassyst.com/) - Built and refined the product-facing website experience, focusing on clear messaging, performance, and conversion-friendly UX.
+- [**Cradle Space**](https://cradlespace.co.id/) - Developed the public web presence with a clean structure and responsive interface to strengthen brand credibility online.
 
 ## GitHub Stats
 
