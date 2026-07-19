@@ -23,12 +23,13 @@ I enjoy working at the intersection of product, design, and engineering to ship 
 ## Core Stack
 
 **Frontend:** JavaScript, Vue, React, Tailwind CSS, HTML, CSS  
-**Backend:** PHP, Laravel, Go  
+**Backend/Systems:** PHP, Laravel, Go, Rust  
 **Data:** PostgreSQL, MySQL  
 **Tools:** Git, GitHub, Figma, Vercel
 
 ## Public Work
 
+- [**Antigravity Manager CLI**](https://github.com/fhrrrzy/antigravity-manager-cli) - A high-performance Rust CLI/TUI tool designed for monitoring Google Antigravity quotas and triggering parallel smart warmup cycles.
 - [**Oassyst**](https://oassyst.com/) - Built and refined the product-facing website experience, focusing on clear messaging, performance, and conversion-friendly UX.
 - [**Cradle Space**](https://cradlespace.co.id/) - Developed the public web presence with a clean structure and responsive interface to strengthen brand credibility online.
 
